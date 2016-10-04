@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/babel/gobble-babel",
   "dependencies": {
-    "babel-core": "^6"
+    "babel-core": "^6.17.0"
   },
   "keywords": [
     "gobble"
